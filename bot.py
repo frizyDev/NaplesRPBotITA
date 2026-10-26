@@ -752,4 +752,3 @@ if TOKEN:
     bot.run(TOKEN)
 else:
     print("❌ ERRORE: La variabile d'ambiente 'DISCORD_TOKEN' non è stata trovata!")
-
